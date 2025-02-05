@@ -14,6 +14,10 @@ The goal of this project is to create an HR Attrition Dashboard in Power BI to t
 - Are there specific locations or teams with higher turnover rates?
 - Can we predict future attrition based on past trends?
 
+## Dataset And Dashboard Interaction
+- <a href = "https://github.com/kolianiket1234/HR-Attrition-Dashboard/blob/main/HR_Analytics.csv"> View Dataset </a>
+
+
 ## Process
 - Set Goals – Define objectives like tracking attrition trends and improving retention.
 - Collect Data – Gather employee records, exit interviews, and survey data.
