@@ -16,7 +16,7 @@ The goal of this project is to create an HR Attrition Dashboard in Power BI to t
 
 ## Dataset And Dashboard Interaction
 - <a href = "https://github.com/kolianiket1234/HR-Attrition-Dashboard/blob/main/HR_Analytics.csv"> View Dataset </a>
-
+- <a href = "https://github.com/kolianiket1234/HR-Attrition-Dashboard/blob/main/Dashboard%20Image.png"> View Dashboard </a>
 
 ## Process
 - Set Goals – Define objectives like tracking attrition trends and improving retention.
